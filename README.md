@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm João Greco! 👋
 
-<!--
-**grecojoao/grecojoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 In constant learning <br>
+🍿 Content Creator at [Youtube](https://www.youtube.com/channel/UCndvgAIBiZfxRKJJy4tV24Q/featured?disable_polymer=1) <br>
+💻 Back-End Developer at .. (It's a secret for now) <br>
+⚡ Fun facts: I enjoy reading, shooting and playing. <br>
+🇧🇷 Living in Canoas, Brazil <br>
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [Twitter](https://twitter.com/_grecojoao) <br>
+🚀 [LinkedIn](https://www.linkedin.com/in/grecojoao/) <br>
+📸 [Instagram](https://instagram.com/_grecojoao/) <br>
