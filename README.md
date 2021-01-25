@@ -3,7 +3,7 @@
 🔭 In constant learning <br>
 🍿 Content Creator at [Youtube](https://www.youtube.com/channel/UCndvgAIBiZfxRKJJy4tV24Q/featured?disable_polymer=1) <br>
 💻 Back-End Developer at [TopDown](http://www.topdown.com.br/) <br>
-⚡ Fun facts: I enjoy reading, shooting and playing. <br>
+⚡ Fun facts: I enjoy books, chess and other games. <br>
 🇧🇷 Living in Canoas, Brazil <br>
 
 ### Find me elsewhere 🌎
