@@ -11,3 +11,5 @@
 🐦 [Twitter](https://twitter.com/_grecojoao) <br>
 🚀 [LinkedIn](https://www.linkedin.com/in/grecojoao/) <br>
 📸 [Instagram](https://instagram.com/_grecojoao/) <br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
