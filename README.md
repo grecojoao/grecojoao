@@ -2,7 +2,7 @@
 
 🔭 In constant learning <br>
 🍿 Content Creator at [Youtube](https://youtube.com/channel/UCmWFPuYxHIz6qG_OsIHv4zA) <br>
-💻 Back-End Developer at [Deliver IT](http://deliverit.com.br/) <br>
+💻 Senior Back-End Developer at [Deliver IT](http://deliverit.com.br/) <br>
 ⚡ Fun facts: I enjoy books, chess and other games. <br>
 🇧🇷 Living in Canoas, Brazil <br>
 
